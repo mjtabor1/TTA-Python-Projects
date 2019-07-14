@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95ab333a-4f6b-4e44-9abe-55baf303c8a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/mainapp/assets/css/layout.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/assets/images/hotel_img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/mainapp/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/mainapp/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/mainapp/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/products/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/products/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/products/templates/products/confirmDelete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/products/templates/products/createRecord.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/products/templates/products/present_product.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/products/templates/products/products_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/products/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/products/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mainapp/templates/navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../FileFindGUI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../FileFindGUI/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="95ab333a-4f6b-4e44-9abe-55baf303c8a2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,6 +138,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -188,13 +170,9 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20089285" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3289689" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -202,6 +180,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
