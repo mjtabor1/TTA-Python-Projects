@@ -8,8 +8,8 @@ This is a project that I created during my coursework with The Tech Academy. We 
 ![User Interface](./READMEfiles/HotelProducts.jpg)
 
 ## Technologies Used
-*Python
-*Django Web Framework
-*PyCharm IDE
-*SQLite Database
+* Python
+* Django Web Framework
+* PyCharm IDE
+* SQLite Database
 
