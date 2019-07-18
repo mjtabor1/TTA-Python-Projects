@@ -101,7 +101,11 @@ def delete_city(request, city_name):
     return redirect('home')
 
 ```
-City forecast views. I edited the HTML and CSS files to create a decent looking display of all the relevant information.
-![WeatherApp](weather_widgets.JPG)
+City forecast views. I edited the HTML and CSS files to create a decent looking display of all the relevant information. As you can see the user can view multiple cities with their 5-day forecast information.
+
+![WeatherApp](Screenshot.png)
 
 ### Skills Learned
+* Working with a group of developers in an Agile environment doing two weeks sprints. We used the Azure DevOps environment and communicated over a Slack channel. 
+* Python and the Django web framework were the main technologies used. I also utilzied SQLite for the database and HTML, CSS for front-end development.
+* Third party API data scraping. I learned how to scrape the web for information from an API and render it to my application.
