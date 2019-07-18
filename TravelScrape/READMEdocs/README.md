@@ -4,7 +4,8 @@
 For two weeks, I worked with my peers at The Tech Academy in an Agile environment to develop a full scale django web application in the Python language. We each picked user stories and went to work on developing applications that would make the site user friendly. The main functionality of the site was to provide a person looking to travel with relevant information to look-up such as weather info, hotel pricing, flight information, restaurant listings and even curreny conversion tools. My main contribution included the weather app, which incorporated front-end and back-end work. See below for my details on my contributions to the site. During the two week sprint I had the opportunity to utilize the Azure DevOps project management tool and Git Bash for version control. These are skills that I'm confident in using and I'm sure will be much needed in the professional world. 
 
 ## Contributions and Skills Learned
-1. [Weather Application](#weather-application)
+* [Weather Application](#weather-application)
+* [Skills Learned](#skills-learned)
 
 ### Weather Application
 This application had two main deliverables. One was to be able to allow the user to search for a city by its name and return the current weather forecast for that specified city. The second was to also return a 5 day weather forecast. I was able to accomplish this by utilzing the "openweathermap" API which I converted to a JSON request. I wanted to gather the necessary information from the API and render it to the screen for the user to view. I included some back-end functionality that would store the city the user searched for into the database. That way the user could look-up multiple cities at once and then delete those cities from their view once they were satisfied. 
@@ -102,3 +103,5 @@ def delete_city(request, city_name):
 ```
 City forecast views. I edited the HTML and CSS files to create a decent looking display of all the relevant information.
 ![WeatherApp](weather_widgets.JPG)
+
+### Skills Learned
