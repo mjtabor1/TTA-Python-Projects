@@ -106,3 +106,6 @@ City forecast views. I edited the HTML and CSS files to create a decent looking 
 ![WeatherApp](Screenshot.png)
 
 ### Skills Learned
+* Working with a group of developers in an Agile environment doing two weeks sprints. We used the Azure DevOps environment and communicated over a Slack channel. 
+* Python and the Django web framework were the main technologies used. I also utilzied SQLite for the database and HTML, CSS for front-end development.
+* Third party API data scraping. I learned how to scrape the web for information from an API and render it to my application.
