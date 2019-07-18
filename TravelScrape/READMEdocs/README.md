@@ -101,7 +101,8 @@ def delete_city(request, city_name):
     return redirect('home')
 
 ```
-City forecast views. I edited the HTML and CSS files to create a decent looking display of all the relevant information.
-![WeatherApp](weather_widgets.JPG)
+City forecast views. I edited the HTML and CSS files to create a decent looking display of all the relevant information. As you can see the user can view multiple cities with their 5-day forecast information.
+
+![WeatherApp](Screenshot.png)
 
 ### Skills Learned
